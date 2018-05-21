@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Caculator:jar">
+    <output-path>$PROJECT_DIR$/out/Artifacts</output-path>
+    <root id="archive" name="Caculator.jar">
+      <element id="module-output" name="Caculator" />
+    </root>
+  </artifact>
+</component>
